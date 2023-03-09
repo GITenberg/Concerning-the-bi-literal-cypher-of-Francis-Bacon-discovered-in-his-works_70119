@@ -1,0 +1,36 @@
+_repo: Concerning-the-bi-literal-cypher-of-Francis-Bacon-discovered-in-his-works_70119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallup, Elizabeth Wells
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '55608'
+    url: http://www.gutenberg.org/2009/agents/55608
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Wells_Gallup
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70119'
+  lccn: '32033464'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924013153501
+pgterms:marc905: 20180224115457gallup
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Richard Tonsing, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoward publishing co, $c1899, pubdate 1901,
+  pubdate 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship -- Baconian theory'
+- !lcsh 'Bacon, Francis, 1561-1626 -- Cipher'
+- !lcsh 'Gallup, Elizabeth Wells, 1846-1933. Bi-literal cypher of Sir Francis Bacon'
+- !lcc 'PR'
+- GITenberg
+title: Concerning the bi-literal cypher of Francis Bacon discovered in his works
+url: http://www.gutenberg.org/ebooks/70119
